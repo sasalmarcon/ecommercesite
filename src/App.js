@@ -1,8 +1,7 @@
 import React from 'react'
 import Appbar from './components/Appbar';
-import Departments from './components/Departments';
+import Layout from './components/Layout';
 import Navbar from "./components/Navbar";
-import Product from './components/Product';
 
 
 function App() {
@@ -10,8 +9,7 @@ function App() {
     <div>
       <Navbar/>
       <Appbar/>
-      <Departments/>
-      <Product />
+      <Layout/>
       
 
     </div>
