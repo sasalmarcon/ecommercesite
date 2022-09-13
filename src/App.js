@@ -12,6 +12,8 @@ function App() {
       <Appbar/>
       <Departments/>
       <Product />
+      
+
     </div>
   );
 }
